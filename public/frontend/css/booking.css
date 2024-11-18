@@ -1,0 +1,17 @@
+.combo {
+    padding: 16px 0 0 0 ;
+}
+.booking {
+    padding-top: 16px;
+}
+.navbar {
+    position: relative;
+}
+
+.logo {
+    position: relative;
+}
+
+.btn:hover {
+    background: linear-gradient(45deg, #4facfe, #8ce7fe);
+  }
