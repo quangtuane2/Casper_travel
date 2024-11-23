@@ -4,6 +4,7 @@
     </IfModule>
 
     RewriteEngine On
+    RewriteBase /web_travel/
 
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .
@@ -24,3 +25,4 @@
     Deny from all
     </Files>
 </IfModule>
+

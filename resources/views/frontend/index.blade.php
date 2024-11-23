@@ -407,7 +407,7 @@
               <div class="col-lg-12 col-md-12 wow zoomIn" data-wow-delay="0.1s">
                 <a
                   class="position-relative d-block overflow-hidden"
-                  href="./TuDucTemple.html"
+                  href="{{url('/')}}"
                 >
                   <img
                     class="img-fluid"
@@ -477,7 +477,7 @@
             data-wow-delay="0.7s"
             style="min-height: 350px"
           >
-            <a class="position-relative d-block h-100 overflow-hidden" href="./ThienMuPagoda.html">
+            <a class="position-relative d-block h-100 overflow-hidden" href="">
               <img
                 class="img-fluid position-absolute w-100 h-100"
                 src="{{ asset('public/frontend/img/chua-thien-mu-o-hue-6.webp') }}"
